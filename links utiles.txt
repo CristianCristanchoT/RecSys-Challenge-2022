@@ -1,0 +1,10 @@
+https://tech.olx.com/item2vec-neural-item-embeddings-to-enhance-recommendations-1fd948a6f293
+
+https://marsan-ma.github.io/item-embedding-in-recommendation/
+
+https://towardsdatascience.com/recommender-systems-from-learned-embeddings-f1d12288f278
+
+https://programmerclick.com/article/36012838650/
+https://dl.acm.org/doi/pdf/10.1145/3219819.3219885
+
+https://keras.io/examples/vision/siamese_contrastive/
